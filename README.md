@@ -1,0 +1,1 @@
+# Generating_a_Sum_of_Prime_Numbers_in_Ruby
